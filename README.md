@@ -1,4 +1,4 @@
-# Atlassin-Enterpise-patch
+# Atlassian-Enterpise-patch
 
 PATCH IS UNIVERSAL (.JAR FILE)
 RUN ON MAC, PC WHATEVER!,
