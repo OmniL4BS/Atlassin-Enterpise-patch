@@ -4,6 +4,7 @@ PATCH IS UNIVERSAL (.JAR FILE)
 RUN ON MAC, PC WHATEVER!,
 GO TO - https://www.atlassian.com/software/jira
 GRAB ANY SOFTWARE (BAMBOO, BITBUCKET, JIRA SOFTWARE ETC,)
+Grab Java app if you already havent: https://www.java.com/en/download/
 
 How to!
 1. Unpack & install.
