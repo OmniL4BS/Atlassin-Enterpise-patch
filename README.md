@@ -12,3 +12,9 @@ How to!
 4. Restart corresponding Atlassian service(s).
 5. Generate a valid serial number for the application.
 6. Enjoy!
+
+Proofs:
+
+-https://i.ibb.co/K0h3gN7/Screen-Shot-2019-10-28-at-4-50-24-AM.png
+
+-https://i.ibb.co/j5JV4R3/Screen-Shot-2019-11-02-at-2-46-16-AM.png
